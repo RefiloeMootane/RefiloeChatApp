@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796495076747",
+    "project_id": "refiloechatapp-9302e",
+    "storage_bucket": "refiloechatapp-9302e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796495076747:android:c1948fe124eb9141e0e38e",
+        "android_client_info": {
+          "package_name": "com.example.refiloechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796495076747-n8f0hlpjjbg2lvb1r81gj4udjqkb06l9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnr0XLQHffyFORXVbm_Ky7Nw5eb7DvOOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796495076747-n8f0hlpjjbg2lvb1r81gj4udjqkb06l9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
